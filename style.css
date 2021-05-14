@@ -1,0 +1,69 @@
+/* Warna */
+.w-silver {
+	background-color: #e8f4fd;
+}
+
+.w-biru {
+	background-color: #1a78c2;
+}
+
+.t-putih {
+	color: white;
+}
+
+.w-birumuda {
+	background-color: #33b5e6;
+}
+
+.default-color {
+	background-color: #2abbac;
+}
+
+.btn-outline-white {
+	border: 1px solid white;
+	background: none;
+	box-sizing: border-box;
+	color: white;
+}
+
+.btn-outline-white:hover {
+	box-shadow: 1px 1px 7px 1px #eee;
+}
+
+.w-navbar {
+	background: linear-gradient(90deg, #1a78c2 0%, #89f7fe 35%);
+}
+
+.w-footer {
+	background: rgb(26,120,194);
+	background: linear-gradient(0deg, rgba(26,120,194,1) 0%, rgba(51,181,230,1) 100%);
+}
+
+.w-ijo {
+	background-color: #73C6B6;
+	color: white;
+	transition: all 0.5s;
+}
+
+.w-ijo:hover {
+	background-color: #3498DB;
+	color: white;
+}
+
+.w-biru2 {
+	background-color: #03A9F4;
+	color: white;
+	transition: all .25s;
+}
+
+.w-biru2:hover {
+	background-color: #039BE5;
+	color: white;
+}
+
+/* Font */
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300;400;500;515;600;700&display=swap');
+
+* {
+	font-family: 'Quicksand', sans-serif;
+}
